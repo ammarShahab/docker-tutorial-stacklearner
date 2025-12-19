@@ -56,25 +56,33 @@ Q: What is the main difference between docker image and docker container?
 A: Docker image is a blueprint or template which is used to create container. Docker container is a runtime environment which is used to run the image.
 
 Q: What is the purpose of the CMD instruction in a Dockerfile?
+
 A: To define the default command to run when a container starts.
 
 Q: Which Docker command is used to execute a command inside a running container?
+
 A: Docker exec
 
 Q: What is the main benefit of using Docker containers?
+
 A: Simplified deployment process
 
 Q: What is the purpose of the Dockerfile?
+
 A: To define build steps for creating Docker images.
 
 Q: What component of Docker is responsible for managing containers on a system?
+
 A: Docker Daemon
 
 What is the purpose of the Docker registry?
+
 A: To share and distribute Docker images.
 
 Q: What is the purpose of the WORKDIR instruction in a Dockerfile?
+
 A: To set the working directory inside the container.
 
 Q:What is the primary role of the Docker daemon?
+
 A: It is responsible for managing docker containers on a system.
