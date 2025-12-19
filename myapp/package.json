@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "name": "docker-tutorial-stacklearner",
+  "version": "1.0.0",
+  "description": "=> Docker is an open-source platform that enables developers to automate the deployment of application in an lightweight, portable containers. This containers package up everything an application needs to run, including libraries, dependencies and run-time environment. Ensuring that it can run consistently across different computing environments.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
