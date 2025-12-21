@@ -37,6 +37,10 @@
 
 3.0 Created a docker file (see the file Dockerfile and see the instruction there)
 
+### Dockerfile Workflow
+
+<img src="/myapp/images/docker_workflow.jpg" width="900">
+
 ### Dockerfile Layers
 
 <img src="/myapp/images/dockerfile_layers.png" width="900">
